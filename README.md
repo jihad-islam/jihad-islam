@@ -62,3 +62,7 @@ I'm a final year Computer Science student at Daffodil International University w
 
 ---
 💡 **Open to Opportunities**: Actively seeking Django developer positions starting June-July 2025. Interested in roles that offer growth opportunities in both web development and machine learning.
+
+<div align="center" style="width: 100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
+</div>
