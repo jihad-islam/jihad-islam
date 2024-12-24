@@ -1,6 +1,4 @@
-# Hi there! I'm Jihad Islam 👋
-
-### Aspiring Django Developer | Computer Science Student
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=4000&pause=1000&color=FFFFFF&width=635&lines=Hi+there!+I%27m+Jihad+Islam+%F0%9F%91%8B;Django+Developer+%7C+CS+Student)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Coding Animation">
@@ -52,7 +50,6 @@ I'm a final year Computer Science student at Daffodil International University w
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 📊 GitHub Statistics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight" alt="GitHub Streak" />
@@ -64,5 +61,4 @@ I'm a final year Computer Science student at Daffodil International University w
 - Portfolio: [Coming Soon]()
 
 ---
-
 💡 **Open to Opportunities**: Actively seeking Django developer positions starting June-July 2025. Interested in roles that offer growth opportunities in both web development and machine learning.
