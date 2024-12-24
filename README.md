@@ -1,83 +1,70 @@
-# Hi 👋, This is Jihad Islam
+# Hi there! I'm Jihad Islam 👋
 
-## Aspiring Django Developer 
+### Aspiring ML Engineer | Django Developer | Computer Science Student
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Developer GIF">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihad-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
-### 🌱 Currently Exploring
-- Django framework for web development.
-
-### 👨‍💻 My Projects
-- [LinkedIn Portfolio](https://www.linkedin.com/in/jihad-islam07/)
-
-### 📫 Contact Me
-- Email: **jihadislam.diu@gmail.com**
-
-### 📄 My Resume
-- [View Resume](cv.com)
-
----
-
-## Connect with Me
-<p>
-  <a href="https://linkedin.com/in/jihad-islam" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## Languages and Tools
-<p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  </a> 
-</p>
-
----
-
-## 🌟 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jihad-islam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+<div align="right">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Coding Animation">
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&" height="180" alt="GitHub Streak" />
-</p>
+## 🎓 About Me
+I'm a final year Computer Science student at Daffodil International University with a passion for backend development and machine learning. Currently focusing on Django development while building a strong foundation for a future career in ML engineering.
 
+<img src="https://komarev.com/ghpvc/?username=jihad-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-## 🏆 Highlights
-- 4th-year CSE student at Daffodil International University
-- Preparing for a career as a Django developer
-- Contributing to open-source projects and participating in hackathons
-- Actively improving skills in React, Django, and database management
+### 🚀 Current Focus
+- Developing full-stack web applications with Django
+- Learning React for frontend development
+- Strengthening Python programming skills
+- Exploring machine learning concepts
+- Building a robust project portfolio
+
+### 🎯 2024-2025 Goals
+- Complete advanced Django projects including:
+  - Foster Home Management System for Animals
+  - E-commerce Platform
+  - Banking Web Application
+- Contribute to open-source projects
+- Participate in hackathons
+- Launch a personal portfolio website
+- Prepare for ML engineering transition
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🤝 Let's Connect!
+- LinkedIn: [Jihad Islam](https://linkedin.com/in/jihad-islam07)
+- Email: jihadislam.diu@gmail.com
+- Portfolio: [Coming Soon]()
+
+---
+
+💡 **Open to Opportunities**: Actively seeking Django developer positions starting June-July 2025. Interested in roles that offer growth opportunities in both web development and machine learning.
