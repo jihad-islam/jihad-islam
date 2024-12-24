@@ -1,6 +1,6 @@
 # Hi 👋, This is Jihad Islam
 
-## A Passionate Django Developer
+## Aspiring Django Developer 
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Developer GIF">
 
