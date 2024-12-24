@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Coding Animation">
 </div>
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> About Me
 
 I'm a final-year Computer Science student at Daffodil International University, specializing in backend development with Django. My passion lies in creating robust, scalable web applications while continuously expanding my technical expertise.
 
@@ -56,6 +56,10 @@ I'm a final-year Computer Science student at Daffodil International University, 
 </div>
 </div>
 
+## 🛠️ Featured Projects
+*Coming Soon*
+<!-- Add 2-3 of your best projects here with brief descriptions and links -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -63,7 +67,7 @@ I'm a final-year Computer Science student at Daffodil International University, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🤝 Let's Connect!
+## <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="25"> Let's Connect!
 
 - LinkedIn: [Jihad Islam](https://linkedin.com/in/jihad-islam07)
 - Email: jihadislam.diu@gmail.com
