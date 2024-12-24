@@ -8,8 +8,6 @@
 
 I'm a final-year Computer Science student at Daffodil International University, specializing in backend development with Django. My passion lies in creating robust, scalable web applications while continuously expanding my technical expertise.
 
-<img src="https://komarev.com/ghpvc/?username=jihad-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
 ### 🔭 Current Focus
 
 - Building scalable web applications with Django and REST framework
@@ -29,11 +27,23 @@ I'm a final-year Computer Science student at Daffodil International University, 
 
 ## 💻 Technical Expertise
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### Backend Development
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -46,12 +56,9 @@ I'm a final-year Computer Science student at Daffodil International University, 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Development Tools & Practices
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
