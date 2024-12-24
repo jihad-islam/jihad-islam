@@ -7,7 +7,7 @@
 </div>
 
 ## 🎓 About Me
-I'm a final year Computer Science student at Daffodil International University with a passion for backend development and machine learning. Currently focusing on Django development while building a strong foundation for a future career in ML engineering.
+I'm a final year Computer Science student at Daffodil International University with a passion for backend development. Currently focusing on Django development while building a strong foundation for a future career.
 
 <img src="https://komarev.com/ghpvc/?username=jihad-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -15,10 +15,9 @@ I'm a final year Computer Science student at Daffodil International University w
 - Developing full-stack web applications with Django
 - Learning React for frontend development
 - Strengthening Python programming skills
-- Exploring machine learning concepts
 - Building a robust project portfolio
 
-### 🎯 2024-2025 Goals
+### 🎯 2025 Goals
 - Complete advanced Django projects including:
   - Foster Home Management System for Animals
   - E-commerce Platform
@@ -26,7 +25,6 @@ I'm a final year Computer Science student at Daffodil International University w
 - Contribute to open-source projects
 - Participate in hackathons
 - Launch a personal portfolio website
-- Prepare for ML engineering transition
 
 ## 💻 Tech Stack
 
