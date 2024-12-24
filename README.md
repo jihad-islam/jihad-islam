@@ -1,23 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=4000&pause=1000&color=FFFFFF&width=635&lines=Hi+there!+I%27m+Jihad+Islam+%F0%9F%91%8B;Django+Developer+%7C+CS+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&width=635&lines=Hi+there!+I%27m+Jihad+Islam+%F0%9F%91%8B;Django+Developer+%7C+CS+Student)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Coding Animation">
 </div>
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a final-year Computer Science student at Daffodil International University, specializing in backend development with Django. My passion lies in creating robust, scalable web applications while continuously expanding my technical expertise.
 
 <img src="https://komarev.com/ghpvc/?username=jihad-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-## 🔭 Current Focus
+### 🔭 Current Focus
 
 - Building scalable web applications with Django and REST framework
 - Developing frontend skills with React and modern JavaScript
 - Mastering Python design patterns and best practices
 - Expanding my project portfolio with real-world applications
 
-## 🎯 2025 Goals
+### 🎯 2025 Goals
 
 - Launch three significant Django projects:
   - Foster Home Management System for Animals (Full-stack solution with automated matching system)
@@ -27,7 +27,7 @@ I'm a final-year Computer Science student at Daffodil International University, 
 - Participate in regional hackathons and tech competitions
 - Create an interactive portfolio showcasing my technical journey
 
-# 💻 Technical Expertise
+## 💻 Technical Expertise
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ I'm a final-year Computer Science student at Daffodil International University, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-# 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 - LinkedIn: [Jihad Islam](https://linkedin.com/in/jihad-islam07)
 - Email: jihadislam.diu@gmail.com
@@ -68,7 +68,8 @@ I'm a final-year Computer Science student at Daffodil International University, 
 
 ---
 
-💼 **Open to Opportunities**: Available for Django Developer positions starting June-July 2025. Seeking roles that combine web development expertise with opportunities to explore machine learning and cloud technologies.
+### 💼 Open to Opportunities
+Available for Django Developer positions starting June-July 2025. Seeking roles that combine web development expertise with opportunities to explore machine learning and cloud technologies.
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
