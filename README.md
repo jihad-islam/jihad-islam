@@ -27,7 +27,7 @@ I'm a final-year Computer Science student at Daffodil International University, 
 
 ## 💻 Technical Expertise
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
