@@ -1,6 +1,6 @@
 # Hi there! I'm Jihad Islam 👋
 
-### Aspiring ML Engineer | Django Developer | Computer Science Student
+### Aspiring Django Developer | Computer Science Student
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Coding Animation">
