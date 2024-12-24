@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Coding Animation">
 </div>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a final-year Computer Science student at Daffodil International University, specializing in backend development with Django. My passion lies in creating robust, scalable web applications while continuously expanding my technical expertise.
 
