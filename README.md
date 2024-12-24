@@ -1,6 +1,6 @@
-# Hi 👋, I'm Jihad Islam
+# Hi 👋, This is Jihad Islam
 
-## A Passionate Developer from Bangladesh
+## A Passionate Django Developer
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Developer GIF">
 
@@ -65,16 +65,19 @@
 
 ---
 
-## GitHub Stats
+## 🌟 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jihad-islam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihad-islam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&" height="180" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&" alt="GitHub Streak" />
-</p>
+## 🏆 Highlights
+- 4th-year CSE student at Daffodil International University
+- Preparing for a career as a Django developer
+- Contributing to open-source projects and participating in hackathons
+- Actively improving skills in React, Django, and database management
