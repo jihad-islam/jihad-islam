@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&width=635&lines=Hi+there!+I%27m+Jihad+Islam+%F0%9F%91%8B;Django+Developer+%7C+CS+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&width=635&lines=Hi+there!+I%27m+Jihad+Islam+%F0%9F%91%8B;Django+Developer+%7C+Problem+Solver+%7C+CS+Student)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Coding Animation">
