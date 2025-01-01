@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&width=635&lines=Hi+there!+I%27m+Jihad+Islam+%F0%9F%91%8B;Backend+Developer+%7C+Problem+Solver+%7C+CS+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&width=635&lines=Hi+there!+I%27m+Jihad+Islam+%F0%9F%91%8B;Problem+Solver+%7C+Backend+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Coding Animation">
@@ -8,19 +8,18 @@
 
 Backend Developer specializing in Django with a strong focus on problem-solving and algorithmic thinking. Final-year Computer Science student at Daffodil International University, passionate about building scalable web applications and solving complex technical challenges.
 
-### 🎯 Professional Goals
+### 🎯 2025 Goals
 
-- Secure a position as a Django Developer (Available from June-July 2025)
-- Solve 200+ LeetCode problems to strengthen problem-solving skills
-- Transition into Big Tech (FAANG) as a Software Engineer
+- Secure a position as a Django Developer (Within July 2025)
+- Become consistent in Leetcode and solve minimum 200 problems
+- Focus on more advanced Data Structures & Algorithms
 - Maintain consistent growth in both technical and personal development
 
-### 🚀 Current Focus
 
-- Django backend development with REST framework integration
-- Full-stack development with React/Next.js
-- Data Structures & Algorithms
-- System Design principles
+### 🚀 Professional Goals
+
+- Transition into Big Tech (FAANG) as a Software Engineer
+- Master Django ecosystem through building production-grade applications with REST framework, PostgreSQL, and AWS
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technical Stack
 
