@@ -6,7 +6,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> About Me
 
-I'm a passionate Backend Developer with expertise in Django and a strong foundation in Computer Science. Currently in my final year at Daffodil International University, I combine academic excellence with practical problem-solving skills. My focus lies in building robust, scalable web applications and tackling complex algorithmic challenges.
+Welcome to my GitHub! I'm a passionate Backend Developer specializing in Django and building scalable, production-ready web applications. With a strong foundation in problem-solving and algorithmic thinking, I am dedicated to creating impactful solutions. Currently, in my final year at Daffodil International University, I aim to secure a Django Developer position by July 2025.  
+
+Let’s make 2025 a milestone year! 💪
 
 ### 🎯 2025 Goals
 
@@ -15,8 +17,6 @@ I'm a passionate Backend Developer with expertise in Django and a strong foundat
 - Build proficiency in PostgreSQL
 - Maintain consistent growth in both technical and personal development
 - Preparing for technical interviews at top-tier tech companies
-
-Let’s make 2025 a milestone year! 💪
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technical Stack
 
