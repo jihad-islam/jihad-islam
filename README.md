@@ -6,14 +6,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> About Me
 
-Backend Developer specializing in Django with a strong focus on problem-solving and algorithmic thinking. Final-year Computer Science student at Daffodil International University, passionate about building scalable web applications and solving complex technical challenges.
+I'm a passionate Backend Developer with expertise in Django and a strong foundation in Computer Science. Currently in my final year at Daffodil International University, I combine academic excellence with practical problem-solving skills. My focus lies in building robust, scalable web applications and tackling complex algorithmic challenges.
 
 ### 🎯 2025 Goals
 
-- Secure a position as a Django Developer (Within July 2025)
-- Become consistent in Leetcode and solve minimum 200 problems
-- Focus on more advanced Data Structures & Algorithms
-- Start learning PostgreSQL
+- Secure a position as a Django Developer (Target: July 2025)
+- Master Data Structures & Algorithms through consistent LeetCode practice (200+ problems)
+- Build proficiency in PostgreSQL
 - Maintain consistent growth in both technical and personal development
 - Preparing for technical interviews at top-tier tech companies
 
