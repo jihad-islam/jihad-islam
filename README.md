@@ -13,13 +13,11 @@ Backend Developer specializing in Django with a strong focus on problem-solving 
 - Secure a position as a Django Developer (Within July 2025)
 - Become consistent in Leetcode and solve minimum 200 problems
 - Focus on more advanced Data Structures & Algorithms
+- Start learning PostgreSQL
 - Maintain consistent growth in both technical and personal development
+- Preparing for technical interviews at top-tier tech companies
 
-
-### 🚀 Professional Goals
-
-- Transition into Big Tech (FAANG) as a Software Engineer
-- Master Django ecosystem through building production-grade applications with REST framework, PostgreSQL, and AWS
+Let’s make 2025 a milestone year! 💪
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technical Stack
 
