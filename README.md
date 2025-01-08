@@ -6,9 +6,40 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> About Me
 
-Welcome to my GitHub! I'm a passionate Backend Developer specializing in Django and building scalable, production-ready web applications. With a strong foundation in problem-solving and algorithmic thinking, I am dedicated to creating impactful solutions. Currently, in my final year at Daffodil International University, I aim to secure a Django Developer position by July 2025.  
+Welcome to my GitHub! I'm a passionate Backend Developer specializing in Django and building scalable, production-ready web applications. With a strong foundation in problem-solving and algorithmic thinking, I am dedicated to creating impactful solutions. Currently, in my final year at Daffodil International University, I aim to secure a Django Developer position by July 2025.
 
 Let’s make 2025 a milestone year! 💪
+
+<!-- start -->
+<div align="center">
+  <img src="./assets/goals-header.svg" width="100%" alt="2025 Goals" />
+</div>
+
+<div align="center">
+
+### Key Objectives 🚀
+
+- **Django Developer Role** 👨‍💻
+
+  - Target: July 2025
+  - Focus on production-level expertise
+
+- **LeetCode Mastery** 🏆
+
+  - Target: 200+ problems solved
+  - Focus on advanced DSA concepts
+
+- **PostgreSQL Proficiency** 💾
+
+  - Deep dive into advanced features
+  - Performance optimization expertise
+
+- **Continuous Growth** 📈
+  - Technical skill enhancement
+  - Professional development focus
+
+</div>
+<!-- end -->
 
 ### 🎯 2025 Goals
 
@@ -22,18 +53,21 @@ Let’s make 2025 a milestone year! 💪
 <div align="center">
 
 ### Backend Development
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -45,16 +79,19 @@ Let’s make 2025 a milestone year! 💪
 ## 💻 Featured Projects
 
 ### 🏠 Foster Home Management System
+
 - Full-stack Django application with automated animal-home matching
 - Features: REST API, real-time notifications, admin dashboard
 - Tech: Django, DRF, React, MySQL, Celery
 
 ### 🛍️ E-commerce Platform
+
 - Scalable e-commerce solution with payment integration
 - Features: Product management, order tracking, analytics
 - Tech: Django, Next.js, Stripe, Redis
 
 ### 🏦 Banking Web Application
+
 - Secure transaction management system
 - Features: Real-time reporting, audit logs, user authentication
 - Tech: Django, React, MySQL, JWT
@@ -66,6 +103,7 @@ Let’s make 2025 a milestone year! 💪
 [![LeetCode Stats](https://leetcard.jacoblin.cool/jihadislam?theme=dark&font=Roboto)](https://leetcode.com/jihadislam)
 
 ### Competitive Programming Profiles
+
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jihadislam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jihadislam/)
 
