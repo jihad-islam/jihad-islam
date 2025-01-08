@@ -13,10 +13,9 @@ Let’s make 2025 a milestone year! 💪
 ### 🎯 2025 Goals
 
 - Secure a position as a Django Developer (Target: July 2025)
-- Master Data Structures & Algorithms through consistent LeetCode practice (200+ problems)
+- Want to learn more advanced Data Structure and Algorithm with LeetCode (target to solve minimum 200 problemns in 2025)
 - Build proficiency in PostgreSQL
 - Maintain consistent growth in both technical and personal development
-- Preparing for technical interviews at top-tier tech companies
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technical Stack
 
