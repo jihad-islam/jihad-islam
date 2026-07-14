@@ -84,7 +84,7 @@ My goal is to work as a **Software Engineer & AI/ML Professional**, combining my
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
