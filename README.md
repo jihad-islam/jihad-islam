@@ -1,8 +1,3 @@
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jihad-islam&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&width=700&lines=Hello!+I'm+Jihad+Islam;Software+Engineer+%7C+Backend+Developer;Aspiring+AI%2FML+Engineer)](https://git.io/typing-svg)
 
 <div align="center">
@@ -17,6 +12,20 @@ My goal is to work as a **Software Engineer & AI/ML Professional**, combining my
 **Currently Learning & Preparing for:**
 - 📘 **ITPEC FE (Fundamental Information Technology Engineer) Exam**
 - 🌐 **Japanese Language (JLPT)**
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihad-islam07)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadjihadislam715@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jihad-islam&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 
 ---
 
@@ -106,29 +115,12 @@ class SoftwareEngineer:
 
 ---
 
-## 📈 GitHub Statistics & Contributions
+## 📈 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<!-- GitHub Contribution Snake Animation -->
-<div align="center">
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jihad-islam/jihad-islam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jihad-islam/jihad-islam/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jihad-islam/jihad-islam/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihad-islam07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadjihadislam715@gmail.com)
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=footer"/>
