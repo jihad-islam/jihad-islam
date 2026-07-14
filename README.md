@@ -1,3 +1,8 @@
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jihad-islam&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&width=700&lines=Hello!+I'm+Jihad+Islam;Software+Engineer+%7C+Backend+Developer;Aspiring+AI%2FML+Engineer)](https://git.io/typing-svg)
 
 <div align="center">
@@ -12,6 +17,26 @@ My goal is to work as a **Software Engineer & AI/ML Professional**, combining my
 **Currently Learning & Preparing for:**
 - 📘 **ITPEC FE (Fundamental Information Technology Engineer) Exam**
 - 🌐 **Japanese Language (JLPT)**
+
+---
+
+## 🐍 Developer.py
+
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Md. Jihad Islam"
+        self.focus = ["Backend Architecture", "Artificial Intelligence", "Machine Learning"]
+        self.environment = {
+            "os": "Arch Linux",
+            "window_manager": "Hyprland",
+            "editor": "VS Code"
+        }
+        self.learning = ["Deep Learning", "FastAPI", "System Design"]
+
+    def execute_goal(self):
+        return "Build robust AI-powered backend systems."
+```
 
 ---
 
@@ -81,11 +106,21 @@ My goal is to work as a **Software Engineer & AI/ML Professional**, combining my
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Statistics & Contributions
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jihad-islam/jihad-islam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jihad-islam/jihad-islam/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jihad-islam/jihad-islam/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
