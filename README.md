@@ -1,127 +1,194 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&width=700&lines=Hello!+I'm+Jihad+Islam;Software+Engineer+%7C+Backend+Developer;Aspiring+AI%2FML+Engineer)](https://git.io/typing-svg)
-
+<!-- Header banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px" alt="Coding Animation">
-</div>
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=190&section=header&text=Md.%20Jihad%20Islam&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20Machine%20Learning%20Engineer&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
-I am a **Computer Science & Engineering student** at Daffodil International University (Dhaka, Bangladesh), passionate about building scalable backend systems and intelligent AI solutions.
-My goal is to work as a **Software Engineer & AI/ML Professional**, combining my strong problem-solving skills with modern software engineering practices to build impactful and global-standard products.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=NLP+%26+Few-Shot+Learning+%F0%9F%A7%A0;Cross-Lingual+Intent+Detection+with+SetFit;Computer+Vision+Datasets+for+Agriculture;ML+Models+%2B+Backend+Engineering+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-**Currently Learning & Preparing for:**
-- 📘 **ITPEC FE (Fundamental Information Technology Engineer) Exam**
-- 🌐 **Japanese Language (JLPT)**
-
-<br>
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihad-islam07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadjihadislam715@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jihad007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jihad-portfolio-pi.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadjihadislam715@gmail.com)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=jihad-islam&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jihad-islam&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🐍 Developer.py
+## 👋 About Me
+
+I'm a **Computer Science & Engineering student** at **Daffodil International University** (Dhaka, Bangladesh). My main interest is **Machine Learning and NLP**, and I pair it with solid **backend engineering** (Python, FastAPI, Django, Docker) so that models can become usable software, not just notebooks.
+
+| | |
+|---|---|
+| 🔬 **Researching** | Cross-lingual intent detection & few-shot text classification with **SetFit** |
+| 📊 **Published** | Co-author of a **3,366-image** rose leaf disease dataset on Mendeley Data |
+| 🛠️ **Building** | Async data pipelines, relational backends, secure web services |
+| 📚 **Preparing for** | ITPEC FE (Fundamental IT Engineer) exam and JLPT (Japanese) |
+| 🎯 **Looking for** | ML / AI engineering internships and junior roles (remote or international) |
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Machine Learning & Data**<br/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,pandas,numpy&perline=10" alt="ML stack"/>
+<br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/SetFit-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-0EA5E9?style=for-the-badge"/>
+
+<br/><br/>
+
+**Backend, Serving & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres,mysql,docker,linux,git,archlinux,vscode&perline=10" alt="Backend stack"/>
+
+<br/><br/>
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,nextjs&perline=10" alt="Languages"/>
+
+</div>
+
+---
+
+## 🔬 Research & Applied ML
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Cross-Lingual Intent Detection with SetFit
+`Ongoing research`
+
+- Studying **few-shot** intent classification for low-resource and cross-lingual settings using **SetFit** (Sentence Transformer fine-tuning).
+- Benchmarking contrastive fine-tuning against standard fine-tuned transformer baselines on Kaggle.
+- Goal: strong accuracy with very few labeled examples per class.
+
+**Tech:** Python · PyTorch · Hugging Face · SetFit · Kaggle
+
+</td>
+<td width="50%" valign="top">
+
+### 🌹 Rose Leaf Disease Dataset
+`Published on Mendeley Data`
+
+- Co-authored and curated **3,366 high-resolution PNG images** for plant disease classification.
+- Built for training and benchmarking CNN / deep learning models in smart agriculture.
+- DOI: [`10.17632/c2hvz3t6t9.1`](https://data.mendeley.com/datasets/c2hvz3t6t9)
+
+**Tech:** Computer Vision · Data Curation · Annotation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Engineering Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚡ TeleFlow
+**Async media/data ingestion pipeline**
+
+- High-concurrency pipeline with CLI and background-bot modes
+- Dockerized for reproducible Linux deployment
+
+`Python` `Asyncio` `Telethon` `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 MCQMate
+**Full-stack assessment platform**
+
+- Relational backend for exam data, user sessions and automated scoring
+- Result generation and analytics-ready data model
+
+`Django` `PostgreSQL` `Next.js`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔒 Secure Samba Web Portal
+**Authentication interface**
+
+- Web login portal with **2FA** and custom brute-force protection
+- Email-based verification flow
+
+`Python` `Flask` `Linux` `SMTP`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐍 Quick Profile
 
 ```python
-class SoftwareEngineer:
+class MLEngineer:
     def __init__(self):
         self.name = "Md. Jihad Islam"
-        self.focus = ["Backend Architecture", "Artificial Intelligence", "Machine Learning"]
-        self.environment = {
-            "os": "Arch Linux",
-            "window_manager": "Hyprland",
-            "editor": "VS Code"
+        self.focus = ["NLP", "Few-Shot Learning", "Computer Vision", "Backend Systems"]
+        self.stack = {
+            "ml": ["PyTorch", "Hugging Face", "SetFit", "scikit-learn"],
+            "data": ["Pandas", "NumPy", "Asyncio"],
+            "backend": ["FastAPI", "Django", "PostgreSQL", "Docker"],
         }
-        self.learning = ["Deep Learning", "FastAPI", "System Design"]
+        self.setup = {"os": "Arch Linux", "wm": "Hyprland", "editor": "VS Code"}
+        self.learning = ["Deep Learning", "LLM fine-tuning", "ML model serving", "System Design"]
 
-    def execute_goal(self):
-        return "Build robust AI-powered backend systems."
+    def goal(self) -> str:
+        return "Build ML systems that are accurate, reproducible and actually deployable."
 ```
 
 ---
 
-## 🎯 Current Focus
-
-- Mastering **Backend Development** using **Python, Django & FastAPI**
-- Deepening knowledge in **Artificial Intelligence & Machine Learning** (Deep Learning, NLP, Generative AI)
-- Regularly participating in **Competitive Programming** (LeetCode, CodeChef, Codeforces) to strengthen Data Structures & Algorithms
-
----
-
-## 🛠️ Technical Skills
+## 🏆 Competitive Programming
 
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jihadislam-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jihadislam/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-jihad.07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jihad.07)
+[![CodeChef](https://img.shields.io/badge/CodeChef-jihadislam-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jihadislam)
+[![Kaggle](https://img.shields.io/badge/Kaggle-jihad007-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jihad007)
 
-### Backend & AI/ML
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jihadislam?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/jihadislam/)
 
 </div>
 
 ---
 
-## 💻 Featured Projects
-
-### 🚀 TeleFlow Downloader (Python-Based Media Automation)
-- Developed an asynchronous Telegram media automation tool supporting CLI & Background Bot modes.
-- **Tech:** Python, Telethon, Asyncio, Docker
-
-### 🎓 MCQMate (Full-Stack EdTech Platform)
-- Built a scalable backend to securely manage exam data, user sessions, and automated result generation.
-- **Tech:** Next.js, Django, PostgreSQL
-
-### 🔒 Secure Samba Server Web Interface
-- Engineered a web-based authentication portal with 2FA and custom Brute Force Protection.
-- **Tech:** Python, Flask, Linux, SMTP
-
----
-
-## 📊 Problem Solving
+## 📊 GitHub Stats
 
 <div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jihadislam?theme=dark&font=Roboto)](https://leetcode.com/u/jihadislam/)
 
-### Profiles
+<img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihad-islam&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%"/>
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jihad.07)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jihadislam)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jihadislam/)
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=jihad-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
-
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jihad-islam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=100%&section=footer"/>
+### 🤝 Let's connect: open to ML / AI internships and collaborations
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%" alt="footer"/>
+
 </div>
